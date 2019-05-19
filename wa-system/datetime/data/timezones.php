@@ -884,8 +884,18 @@ return array(
                     0 => 'Dushanbe',
                     1 => 'Karachi',
                     2 => 'Kathmandu',
+                    3 => 'Oral',
+                ),
+        ),
+    'Asia/Kolkata'              =>
+        array(
+            0 => '+05.30',
+            1 =>
+                array(
+                    0 => 'New Delhi',
+                    1 => 'Mumbai',
+                    2 => 'Chennai',
                     3 => 'Kolkata',
-                    4 => 'Oral',
                 ),
         ),
     'Asia/Samarkand'             =>
